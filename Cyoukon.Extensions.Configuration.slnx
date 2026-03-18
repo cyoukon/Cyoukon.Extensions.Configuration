@@ -1,0 +1,21 @@
+<Solution>
+  <Folder Name="/sample/">
+    <Project Path="sample/ConsoleSample.Gitee/ConsoleSample.Gitee.csproj" />
+    <Project Path="sample/ConsoleSample.Github/ConsoleSample.Github.csproj" />
+    <Project Path="sample/GiteeSample/GiteeSample.csproj" />
+    <Project Path="sample/GithubSample/GithubSample.csproj" />
+  </Folder>
+  <Folder Name="/Solution Items/">
+    <File Path="Directory.Packages.props" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/Cyoukon.Extensions.Configuration.Abstractions/Cyoukon.Extensions.Configuration.Abstractions.csproj" />
+    <Project Path="src/Cyoukon.Extensions.Configuration.Gitee/Cyoukon.Extensions.Configuration.Gitee.csproj" />
+    <Project Path="src/Cyoukon.Extensions.Configuration.Github/Cyoukon.Extensions.Configuration.Github.csproj" />
+  </Folder>
+  <Folder Name="/test/">
+    <Project Path="test/Cyoukon.Extensions.Configuration.Abstractions.Tests/Cyoukon.Extensions.Configuration.Abstractions.Tests.csproj" />
+    <Project Path="test/Cyoukon.Extensions.Configuration.Gitee.Tests/Cyoukon.Extensions.Configuration.Gitee.Tests.csproj" />
+    <Project Path="test/Cyoukon.Extensions.Configuration.Github.Tests/Cyoukon.Extensions.Configuration.Github.Tests.csproj" />
+  </Folder>
+</Solution>
